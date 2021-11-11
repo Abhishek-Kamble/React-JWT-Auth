@@ -1,8 +1,9 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
-import { Router, Switch, Route, Link } from "react-router-dom";
+import { Router, Route, Link } from "react-router-dom";
+import { Switch } from "react-router";
 
-import "bootstrap/dist/css/bootstrap.min.css";
+// import "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css";
 import "./App.css";
 
 import Login from "./components/login.component";

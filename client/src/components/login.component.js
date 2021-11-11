@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Redirect } from 'react-router-dom';
+import { Redirect } from 'react-router';
 
 import Form from "react-validation/build/form";
 import Input from "react-validation/build/input";
